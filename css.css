@@ -1,0 +1,26 @@
+.counter {
+    float: right;
+    margin-right: 15px;
+}
+
+.game_field_li {
+    list-style-type: none;
+}
+
+.data_ul {
+    display: inline-block;
+}
+
+.data_li {
+    display: inline-block;
+    margin-left: 5px;
+    width: 96px;
+    height: 96px;
+    background-color: #2B587A;
+}
+
+.data_img {
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+}
